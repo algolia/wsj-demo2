@@ -133,8 +133,8 @@ import SearchTags from "./components/SearchTags.vue";
 import RelatedItems from "./components/RelatedItems.vue";
 
 const searchStore = createFromAlgoliaCredentials(
-  "2J41PF52UZ",
-  "6499a1a9a5b8094f6058fad1af2f750d"
+  "latency",
+  "af044fb0788d6bb15f807e4420592bc5"
 );
 
 const months = [
